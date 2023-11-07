@@ -1,2 +1,2 @@
 # coding-challenges
-Working through coding challenges on LeetCode, HackerRank, and CodeWars
+Working through coding challenges from LeetCode, HackerRank, and CodeWars
